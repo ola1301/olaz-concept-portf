@@ -44,11 +44,11 @@ html {
 
         /* --- Dark Mode --- */
     body.dark header {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
       /* color: #f9f9f9; */
     }
     body.dark {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
       color: #f9f9f9;
     }
 
@@ -65,7 +65,7 @@ html {
     }
 
     body.dark .hero {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
       color: #ddd;
     }
 
@@ -87,7 +87,7 @@ html {
     }
 
     body.dark .about {
-      background: linear-gradient(to right, #fff, #233235, #1d2425, #1a1e1f);
+      background: linear-gradient(to right, #2e464b, #233235, #1d2425, #1a1e1f);
       color: #ddd;
     }
 
@@ -111,7 +111,7 @@ html {
     }
 
     body.dark .skills {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
       color: #fff;
     }
 
@@ -132,7 +132,7 @@ html {
     }
 
     body.dark .project-section {
-      background: linear-gradient(to right, #fff, #233235, #1d2425, #1a1e1f);
+      background: linear-gradient(to right, #2e464b, #233235, #1d2425, #1a1e1f);
       box-shadow: 0 0px 12px rgb(163, 214, 216);
       border-radius: 50px;
     }
@@ -146,16 +146,16 @@ html {
     }
 
     body.dark .project-form {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
     }
 
     body.dark .progress-bar {
-      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #fff);
+      background: linear-gradient(to right, #1a1e1f, #1d2425, #233235, #2e464b);
     }
 
 
     body.dark .contact-card {
-      background: linear-gradient(to right, #fff, #233235, #1d2425, #1a1e1f);
+      background: linear-gradient(to right, #2e464b, #233235, #1d2425, #1a1e1f);
       color: #ddd;
     }
 
@@ -1179,5 +1179,6 @@ nav ul li a.active:hover {
 }
 
 /* --- End Responsive Styles --- */
+
 
 
